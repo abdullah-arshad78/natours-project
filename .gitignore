@@ -1,2 +1,5 @@
-/node_modules
-/sass
+node_modules/
+sass/
+.vscode/
+package-lock.json
+package.json
