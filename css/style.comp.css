@@ -75,7 +75,7 @@ html {
       font-size: 50%; } }
   @media only screen and (max-width: 26.25em) {
     html {
-      font-size: 40%; } }
+      font-size: 35%; } }
 
 body {
   /* paddings rem units are relative to root elements font-size */
@@ -1030,6 +1030,9 @@ body {
   @media only screen and (max-width: 56.25em) {
     .section-about {
       padding: 25rem 0; } }
+  @media only screen and (max-width: 26.25em) {
+    .section-about {
+      text-align: center; } }
 
 .section-features {
   padding: 20rem 0;
